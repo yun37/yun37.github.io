@@ -7,9 +7,19 @@ description: >-
   of coupled oceanic-atmospheric modeling.
 baseurl: ''
 url: ''
-twitter_username: jekyllrb
-github_username: jekyll
+#twitter_username: aaa
+#youtube_username: aaaa
+#google_scholar_username: i6pxa-UAAAAJ
+
+#social-network-links:
+#ORCID: 0000-0001-6656-2581
+#google-scholar: i6pxa-UAAAAJ
+
 theme: minima
+
+
+
+
 paginate: 5
 plugins:
   - jekyll-feed
