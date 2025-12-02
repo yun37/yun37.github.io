@@ -4,6 +4,4 @@ layout: page
 permalink: "/about/"
 ---
 
-Dr. Yunfang Sun received the Ph.D. degree in Marine and Atmospheric System Modeling and Analysis from the University of Massachusetts, Intercampus Marine Science Graduate Program (joint Ph.D. degree from UMass Amherst, Boston, Dartmouth, and Lowell) , at New Bedford, Massachusetts, USA.
-
-His research interests include climate change risk analysis, sea level rise, data mining & machine learning, harmful algal blooms, Ocean freight, fishery dynamics, estuary and coastal ocean processes, remote sensing & HF radar ocean observation, dynamics of coupled oceanic-atmospheric modeling.
+Dr. Sun's research focuses on coastal hazard modeling, storm surge and flood dynamics, and high-resolution numerical simulations of coupled ocean–atmosphere systems. He works on quantifying extreme event risk, developing physics-based inundation models, and creating hazard and exposure metrics used in climate risk analysis and resilience planning. His work integrates physical modeling, data-driven methods, and machine learning to improve coastal flood prediction and risk assessment.
